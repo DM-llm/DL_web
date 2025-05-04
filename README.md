@@ -1,3 +1,11 @@
+本项目已运用于
+
+SmartPaper
+https://github.com/DM-llm/SmartPaper_react
+
+Simon_web
+https://github.com/DM-llm/Simon_web
+
 #  启动项目
 
 
