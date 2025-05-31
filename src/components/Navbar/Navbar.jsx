@@ -18,16 +18,21 @@ const NavLinks = [
   },
   {
     id: 3,
+    title: "AI助手",
+    link: "/aichat",
+  },
+  {
+    id: 4,
     title: "文档",
     link: "#",
   },
   {
-    id: 4,
+    id: 5,
     title: "定价",
     link: "#",
   },
   {
-    id: 5,
+    id: 6,
     title: "百度飞桨",
     link: "https://aistudio.baidu.com/application/detail/68062",
   },
